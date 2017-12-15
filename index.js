@@ -18,7 +18,7 @@ return "I can't hear you!"
 }
 }
 function sayHiToGrand(string)
-if (string.toUpperCase() === string {
+if (string.toUpperCase() === string) {
   return "YES INDEED!"
 }
 }
