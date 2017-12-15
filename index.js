@@ -22,4 +22,3 @@ if (string.toUpperCase() === string {
   return "YES INDEED!"
 }
 }
-
